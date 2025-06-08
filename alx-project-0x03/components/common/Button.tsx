@@ -1,4 +1,5 @@
 
+["import { ButtonProps }"]
 interface ButtonProps {
     buttonLabel: string;
     buttonSize?: string;

@@ -1,6 +1,8 @@
 // interface/index.ts
 
 // For Button.tsx
+["import { PageRouteProps }"]
+
 export interface ButtonProps {
   buttonLabel: string;
   buttonSize?: string;
